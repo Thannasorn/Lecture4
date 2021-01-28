@@ -30,7 +30,7 @@ console.log("\n*************Try..Catch..Finally*********\n");
 
 try{
     //criticalCode();
-    x ;
+    let x = 0;
 }
     catch(ex){
         console.log("Got an error");
