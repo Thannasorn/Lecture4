@@ -3,8 +3,9 @@ class Song {
         this.title;
         this.author;
     }
+   
     play() {
-        console.log("Song playing!");
+        console.log("Song Playing!");
     }
 }
 
